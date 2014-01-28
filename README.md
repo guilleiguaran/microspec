@@ -1,2 +1,3 @@
-microspec
+MicroSpec
 =========
+Minimal BDD for Ruby
